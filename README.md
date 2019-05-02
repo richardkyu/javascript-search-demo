@@ -1,3 +1,6 @@
+View site here: https://richardkyu.github.io/javascript-search-demo/
+
+
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
